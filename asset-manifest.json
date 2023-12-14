@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taskpal/static/css/main.7d00a56f.css",
+    "main.js": "/Taskpal/static/js/main.8214f33f.js",
+    "static/js/787.f0de8d79.chunk.js": "/Taskpal/static/js/787.f0de8d79.chunk.js",
+    "index.html": "/Taskpal/index.html",
+    "main.7d00a56f.css.map": "/Taskpal/static/css/main.7d00a56f.css.map",
+    "main.8214f33f.js.map": "/Taskpal/static/js/main.8214f33f.js.map",
+    "787.f0de8d79.chunk.js.map": "/Taskpal/static/js/787.f0de8d79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d00a56f.css",
+    "static/js/main.8214f33f.js"
+  ]
+}
